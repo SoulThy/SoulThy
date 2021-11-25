@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **daniel.majewski04@gmail.com**
 
-- ⚡ Fun fact **I'm a gamer😎 #chad**
+- ⚡ Also **a gamer😎 #chad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
