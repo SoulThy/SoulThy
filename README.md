@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A 18-year-old university student passionate about computer science.</h3>
+<h3 align="center">A 19-year-old university student passionate about computer science.</h3>
 
 - 🌱 I’m currently learning **Javascript!**
-
-- 📫 How to reach me **daniel.majewski04@gmail.com**
 
 - ⚡ Also **a gamer😎 #chad**
 
