@@ -14,7 +14,7 @@
 
 <h3>🎯 CTF Stats</h3>
 <p>
-  <img src="https://img.shields.io/badge/Reverse_Solved-13-9FA8DA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Reverse_Solved-14-9FA8DA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Web_Solved-21-9FA8DA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Crypto_Solved-8-9FA8DA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Pwn_Solved-14-9FA8DA?style=for-the-badge">
