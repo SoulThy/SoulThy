@@ -27,7 +27,7 @@
 
 - CyberChallenge.IT 🇮🇹
 - Reverse engineering & binary exploitation 🔍
-- Low-level programming & memory model 🧵
+- Low-level programming 🧵
 
 ---
 
